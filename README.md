@@ -25,6 +25,12 @@
 
 - [4] SAVE 버튼으로 .png 파일 저장하기
 
+## 🛠 사용 기술
+
+| Front-End            | Front-Server |
+| -------------------- | ------------ |
+| Javascript<br>Canvas | Github Pages |
+
 ## 🖥 Local 실행 방법
 
 #### [1] Clone the Repo
@@ -38,12 +44,6 @@ git clone https://github.com/mnxmnz/Paint-Clone.git
 ```
 Open index.html file in browser
 ```
-
-## 🛠 사용 기술
-
-| Front-End            | Front-Server |
-| -------------------- | ------------ |
-| Javascript<br>Canvas | Github Pages |
 
 ### :link: URL
 
