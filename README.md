@@ -2,7 +2,7 @@
     <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FDYrs5%2FbtqWUNdpMu5%2FkkPvhKZjkTAzm2WEyIkRx1%2Fimg.png" alt="Logo" width="150" height="150">
 </p>
 
-<h2 align="center"><a href="https://mnxmnz.github.io/Paint-Clone/#/">Paint Clone</a></h2>
+<h2 align="center">Paint Clone</h2>
 
 <br>
 
@@ -27,9 +27,9 @@
 
 ## 🛠 사용 기술
 
-| Front-End            | Front-Server |
-| -------------------- | ------------ |
-| Javascript<br>Canvas | Github Pages |
+| Front-End            |
+| -------------------- |
+| Javascript<br>Canvas |
 
 ## 🖥 Local 실행 방법
 
@@ -44,10 +44,6 @@ git clone https://github.com/mnxmnz/Paint-Clone.git
 ```
 Open index.html file in browser
 ```
-
-### :link: URL
-
-- [Paint Clone 바로가기](https://mnxmnz.github.io/Paint-Clone/#/)
 
 #### :open_file_folder: 참고
 
